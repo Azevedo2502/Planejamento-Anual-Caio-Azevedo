@@ -1,0 +1,18 @@
+MÊS 3 — Python para Segurança
+
+Não precisa virar desenvolvedor.
+
+Aprenda:
+requests
+json
+csv
+regex
+
+Projeto
+
+Script que:
+
+* Analisa logs
+* Procura IPs suspeitos
+
+Publicar no GitHub.
