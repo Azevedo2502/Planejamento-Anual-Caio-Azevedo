@@ -1,0 +1,34 @@
+MÊS 1 — Redes
+
+Objetivo
+
+Entender como a internet funciona.
+
+Estude
+
+* TCP/IP
+* OSI
+* DNS
+* DHCP
+* NAT
+* VLAN
+* Routing
+
+Laboratório
+
+Instalar:
+
+* Cisco Packet Tracer⁠￼
+* Wireshark⁠￼
+
+Projeto
+
+Analisar:
+
+* DNS
+* HTTPS
+* TCP handshake
+
+GitHub
+
+Criar repositório: ANALISE-TRAFEGO-WIRESHARK
